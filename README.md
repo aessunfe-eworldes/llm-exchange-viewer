@@ -2,6 +2,8 @@
 
 A desktop application for viewing single-prompt LLM exchanges (prompt, response, system prompt) that have been saved locally.
 
+<img src="./assets/screenshot.png" alt="App Screenshot" width="800"/>
+
 # Installation
 
 In a Python3.11 environment, install the requirements from `requirements.txt`. Run `python main.py` to confirm installation.
