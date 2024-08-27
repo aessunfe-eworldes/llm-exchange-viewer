@@ -1,0 +1,12 @@
+# LLM Exchange Viewer
+
+LLM Exchange Viewer is an open-source, streamlined desktop application developed by Ari
+Essunfeld, a data scientist at eWorld Enterprise Solutions. It is designed to
+make it easy to display single-prompt exchanges with Large Language Models.
+
+## Features
+
+- LLM responses are rendered in Markdown, making them easier
+  to read.
+- The System Prompt used with the LLM can be displayed on demand in a
+  convenient popup window.
