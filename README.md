@@ -19,7 +19,7 @@ In a Python3.11 environment, install the requirements from `requirements.txt`. R
 
 This app assumes that you have local records of LLM exchanges in a specific format. Specifically, this app assumes you have at least one folder that contains the following kinds of files:
 - `prompt.txt`
-- `response.txt
+- `response.txt`
 - `system.txt`
 
 Note that the names of the files don't need to match exactly, but the content should be present: prompt, response, and system prompt.
