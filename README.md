@@ -11,6 +11,8 @@ In a Python3.11 environment, install the requirements from `requirements.txt`. R
 - `python -m venv venv`
 - `source venv/bin/activate` or `.\venv\Scripts\activate` (Windows)
 - `python --version` (should be 3.11.x)
+- `python -m pip install --upgrade pip`
+- `pip install -r requirements.txt`
 - `python main.py` (should launch GUI)
 
 # Usage
